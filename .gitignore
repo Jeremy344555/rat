@@ -1,0 +1,7 @@
+*.cfu
+*.cfl
+*.lgd
+*.orig
+*.bak
+*_pid*.log
+.vscode/settings.json

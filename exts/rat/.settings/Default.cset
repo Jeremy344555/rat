@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "settings": {
+    "md-standard-attribute-synonym-empty": {
+      "enabled": false,
+      "severity": "TRIVIAL"
+    },
+    "right-interactive-open-external-data-processors": {
+      "properties": {
+        "excludeRoleNames": "ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок,InteractiveOpenExternalReportsAndDataProcessors,ОткрытиеВнешнихОбработокИОтчетов"
+      }
+    },
+    "module-accessibility-at-client": {
+      "enabled": false
+    },
+    "common-module-name-client-server": {
+      "enabled": false
+    },
+    "doc-comment-field-type": {
+      "severity": "MAJOR"
+    },
+    "new-color": {
+      "enabled": false
+    },
+    "doc-comment-procedure-return-section": {
+      "severity": "MAJOR"
+    },
+    "ql-join-to-sub-query": {
+      "severity": "MINOR"
+    },
+    "common-module-name-server-call-cached": {
+      "enabled": false
+    },
+    "module-region-empty": {
+      "enabled": false
+    },
+    "common-module-type": {
+      "enabled": false
+    },
+    "ql-temp-table-index": {
+      "severity": "MINOR"
+    },
+    "lock-out-of-try": {
+      "severity": "MAJOR"
+    },
+    "common-module-name-client-cached": {
+      "enabled": false
+    },
+    "right-start-automation": {
+      "enabled": false
+    },
+    "module-empty-method": {
+      "severity": "MAJOR",
+      "properties": {
+        "excludeTopMdObjectNamePattern": ".*Переопределяемый"
+      }
+    },
+    "module-unused-local-variable": {
+      "severity": "MAJOR"
+    },
+    "common-module-name-global": {
+      "enabled": false
+    },
+    "bsl-nstr-string-literal-format": {
+      "enabled": false
+    },
+    "right-view-event-log": {
+      "properties": {
+        "excludeRoleNames": "ПросмотрЖурналаРегистрации,ViewEventLog,ПолныеПрава,FullAccess,АдминистраторСистемы,SystemAdministrator,ТехническийОтдел"
+      }
+    },
+    "event-heandler-boolean-param": {
+      "severity": "MAJOR",
+      "properties": {
+        "paramsToTrue": "Cancel,Отказ",
+        "checkEventOnly": "false",
+        "paramsToFalse": "Perform,StandardProcessing,СтандартнаяОбработка"
+      }
+    },
+    "right-interactive-clear-deletion-mark-predefined-data": {
+      "properties": {
+        "excludeRoleNamePattern": "УправлениеДоступомПользователь"
+      }
+    },
+    "export-method-in-command-form-module": {
+      "properties": {
+        "excludeModuleMethodNamePattern": "^(?U)(Подключаемый_.*|Attachable_.*|ПрименитьНастройки)$"
+      }
+    },
+    "right-start-external-connection": {
+      "enabled": false
+    },
+    "doc-comment-parameter-section": {
+      "severity": "MAJOR"
+    },
+    "md-list-object-presentation": {
+      "enabled": false
+    },
+    "right-start-thin-client": {
+      "enabled": false
+    },
+    "empty-except-statement": {
+      "severity": "CRITICAL"
+    },
+    "right-active-users": {
+      "properties": {
+        "excludeRoleNames": "Администрирование,Administration,ПолныеПрава,FullAccess,АдминистраторСистемы,SystemAdministrator,ТехническийОтдел"
+      }
+    },
+    "right-interactive-set-deletion-mark-predefined-data": {
+      "properties": {
+        "excludeRoleNamePattern": "УправлениеДоступомПользователь"
+      }
+    },
+    "right-output-to-printer-file-clipboard": {
+      "enabled": false
+    },
+    "right-start-thick-client": {
+      "enabled": false
+    },
+    "module-unused-method": {
+      "severity": "MAJOR",
+      "properties": {
+        "excludeModuleMethodNamePattern": "(Подключаемый_.*)|(.*_Подключаемый)|(.*_Подключаемая)|(.*_ШАБЛОН)"
+      }
+    },
+    "common-module-name-server-call": {
+      "enabled": false
+    },
+    "right-start-web-client": {
+      "enabled": false
+    },
+    "right-save-user-data": {
+      "enabled": false
+    },
+    "right-interactive-open-external-reports": {
+      "properties": {
+        "excludeRoleNames": "ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок,InteractiveOpenExternalReportsAndDataProcessors,ОткрытиеВнешнихОбработокИОтчетов"
+      }
+    }
+  }
+}
