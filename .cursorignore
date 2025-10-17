@@ -1,0 +1,24 @@
+# Временные файлы
+*.tmp
+*.temp
+*.log
+
+# Сборки и артефакты
+build/
+dist/
+*.cf
+*.cfe
+
+# Кэш и конфигурация IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи и отладочная информация
+*.log
+debug/ 
