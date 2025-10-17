@@ -6,8 +6,8 @@ on:
       - develop
 
 defaults:
- run:
-  working-directory: ./documentaion
+  run:
+    working-directory: ./documentation
 
 jobs:
   deploy:
@@ -21,9 +21,9 @@ jobs:
       - name: Установка NodeJS
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 22
           cache: yarn
-          cache-dependency-path: 'documentaion/yarn.lock'
+          cache-dependency-path: 'documentation/yarn.lock'
 
       - name: Установка зависимостей Docusaurus
         run: yarn install --frozen-lockfile
