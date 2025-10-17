@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f1e2d3c4-b5a6-9788-1234-567890abcdef">
+  <name>ОМ_РатПреобразованияКлючиЗаписи</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Преобразования ключи записи</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

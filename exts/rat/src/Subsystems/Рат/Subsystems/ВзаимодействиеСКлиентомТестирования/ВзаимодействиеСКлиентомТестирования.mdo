@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2227c149-5ec7-496a-82bc-235b313c04df">
+  <name>ВзаимодействиеСКлиентомТестирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Взаимодействие с клиентом тестирования</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиентСервер</content>
+  <content>CommonCommand.РатКомандныйИнтерфейсЗапросОтвет</content>
+  <content>CommonModule.РатАнализТабличногоДокумента</content>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияВызовСервера</content>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестирования</content>
+  <content>CommonModule.РатАнализТабличногоДокументаВызовКлиента</content>
+  <content>CommonModule.РатАнализТабличногоДокументаВызовСервера</content>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиент</content>
+  <content>DataProcessor.РатГенераторСценариев</content>
+  <content>CommonModule.РатЭмуляцияДействийПользователяВызовКлиента</content>
+  <content>CommonModule.РатЭмуляцияДействийПользователя</content>
+  <parentSubsystem>Subsystem.Рат</parentSubsystem>
+</mdclass:Subsystem>

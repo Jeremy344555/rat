@@ -1,41 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c6852ec4-c83b-4e13-b05b-e12bb9fed30e">
-  <name>Configuration</name>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2ae2b2fa-d9ea-4a70-ad37-da024c7068e9">
+  <name>RAT</name>
   <synonym>
-    <key>en</key>
-    <value>Configuration</value>
+    <key>ru</key>
+    <value>Remote API for test</value>
   </synonym>
-  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="441e8526-c557-4a67-8852-028d5b9c80e7"/>
-  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e3e0fa93-1d31-4b6b-a010-9786a99d34c8"/>
-  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d3466c10-9b71-47af-80bf-bd8d341ab8f6"/>
-  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="4982c306-d951-4026-a27d-0673958290db"/>
-  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="28864d59-037e-4c12-bb7c-87da1de56c6f"/>
-  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="39553db4-d6f5-45fe-bfb1-5894bf92632d"/>
-  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="aff2e200-0a6e-42f1-b3f3-c668da47fb84"/>
-  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
-  <defaultRunMode>ManagedApplication</defaultRunMode>
-  <usePurposes>PersonalComputer</usePurposes>
-  <usedMobileApplicationFunctionalities>
-    <functionality>
-      <use>true</use>
-    </functionality>
-    <functionality>
-      <functionality>OSBackup</functionality>
-      <use>true</use>
-    </functionality>
-  </usedMobileApplicationFunctionalities>
-  <defaultLanguage>Language.English</defaultLanguage>
-  <dataLockControlMode>Managed</dataLockControlMode>
-  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
-  <modalityUseMode>DontUse</modalityUseMode>
-  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.21</compatibilityMode>
-  <languages uuid="3c898213-9db4-4816-a7c2-9a1a75000de1">
-    <name>English</name>
-    <synonym>
-      <key>en</key>
-      <value>English</value>
-    </synonym>
-    <languageCode>en</languageCode>
-  </languages>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <managedApplicationModule>Extended</managedApplicationModule>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0bc0f2b2-52d1-4916-b0b9-9bbd625edace"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e14aed6c-09c7-48bc-8ee9-0d6a5b2e237e"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="b3e2da7a-6d8a-4928-b474-f5ba03b6af58"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="97f1ab1a-7f54-4015-af5c-20635e8bef70"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="0ed2ce21-8553-4b74-88e2-d4d8682508eb"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="65c7c096-14e5-4fe3-b49c-1f9dc0d9da67"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="b9609b9c-8613-40b4-8ac5-3ece04fa731b"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>Рат</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
+  <scriptVariant>Russian</scriptVariant>
+  <version>25.10</version>
+  <subsystems>Subsystem.Рат</subsystems>
+  <subsystems>Subsystem.РатАдаптацияФункциональности</subsystems>
+  <subsystems>Subsystem.РатОписаниеСервиса</subsystems>
+  <subsystems>Subsystem.РатПубличный</subsystems>
+  <subsystems>Subsystem.РатРасширениеФункциональности</subsystems>
+  <commonTemplates>CommonTemplate.РатИнтерфейс</commonTemplates>
+  <commonTemplates>CommonTemplate.РатМетаданные</commonTemplates>
+  <commonModules>CommonModule.РатJSON</commonModules>
+  <commonModules>CommonModule.РатOpenAPI</commonModules>
+  <commonModules>CommonModule.РатАлгоритмы</commonModules>
+  <commonModules>CommonModule.РатАнализТабличногоДокумента</commonModules>
+  <commonModules>CommonModule.РатАнализТабличногоДокументаВызовКлиента</commonModules>
+  <commonModules>CommonModule.РатАнализТабличногоДокументаВызовСервера</commonModules>
+  <commonModules>CommonModule.РатВзаимодействиеСКлиентомТестирования</commonModules>
+  <commonModules>CommonModule.РатВзаимодействиеСКлиентомТестированияВызовСервера</commonModules>
+  <commonModules>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиент</commonModules>
+  <commonModules>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиентСервер</commonModules>
+  <commonModules>CommonModule.РатВиртуальныеТаблицы</commonModules>
+  <commonModules>CommonModule.РатВызовСервисаКлиент</commonModules>
+  <commonModules>CommonModule.РатВыполнениеПроизвольныхЗапросов</commonModules>
+  <commonModules>CommonModule.РатДвижения</commonModules>
+  <commonModules>CommonModule.РатИнформационнаяБаза</commonModules>
+  <commonModules>CommonModule.РатИнформационнаяБазаПереопределяемый</commonModules>
+  <commonModules>CommonModule.РатИнформационнаяБазаСервис</commonModules>
+  <commonModules>CommonModule.РатИсключения</commonModules>
+  <commonModules>CommonModule.РатКоллекции</commonModules>
+  <commonModules>CommonModule.РатКоннекторHTTP</commonModules>
+  <commonModules>CommonModule.РатМетаданные</commonModules>
+  <commonModules>CommonModule.РатОбмены</commonModules>
+  <commonModules>CommonModule.РатОбщий</commonModules>
+  <commonModules>CommonModule.РатОбщийКлиентСервер</commonModules>
+  <commonModules>CommonModule.РатПовтИсп</commonModules>
+  <commonModules>CommonModule.РатПользователиИнформационнойБазы</commonModules>
+  <commonModules>CommonModule.РатПреобразования</commonModules>
+  <commonModules>CommonModule.РатПреобразованияВспомогательные</commonModules>
+  <commonModules>CommonModule.РатПреобразованияВызовСервера</commonModules>
+  <commonModules>CommonModule.РатПреобразованияКлиентСервер</commonModules>
+  <commonModules>CommonModule.РатПреобразованияКлючиЗаписи</commonModules>
+  <commonModules>CommonModule.РатПреобразованияКоллекции</commonModules>
+  <commonModules>CommonModule.РатПреобразованияПримитивы</commonModules>
+  <commonModules>CommonModule.РатПреобразованияСистемныеПеречисления</commonModules>
+  <commonModules>CommonModule.РатПреобразованияСсылки</commonModules>
+  <commonModules>CommonModule.РатРасширениеФункциональности</commonModules>
+  <commonModules>CommonModule.РатРасширениеФункциональностиВызовСервера</commonModules>
+  <commonModules>CommonModule.РатРасширениеФункциональностиКлиентСервер</commonModules>
+  <commonModules>CommonModule.РатРасширениеФункциональностиПовтИсп</commonModules>
+  <commonModules>CommonModule.РатРегламентныеЗадания</commonModules>
+  <commonModules>CommonModule.РатСервис</commonModules>
+  <commonModules>CommonModule.РатСервисПереопределяемый</commonModules>
+  <commonModules>CommonModule.РатСериализация</commonModules>
+  <commonModules>CommonModule.РатСпецификация</commonModules>
+  <commonModules>CommonModule.РатСтроки</commonModules>
+  <commonModules>CommonModule.РатТабличныеЧасти</commonModules>
+  <commonModules>CommonModule.РатТипыДанных</commonModules>
+  <commonModules>CommonModule.РатШаблонМодуля</commonModules>
+  <commonModules>CommonModule.РатШаблоныАдресов</commonModules>
+  <commonModules>CommonModule.РатШагиВанессыВызовСервера</commonModules>
+  <commonModules>CommonModule.РатШагиВанессыКлиент</commonModules>
+  <commonModules>CommonModule.РатШагиВанессыКлиентСервер</commonModules>
+  <commonModules>CommonModule.РатШагиВанессыСервер</commonModules>
+  <commonModules>CommonModule.РатЭмуляцияДействийПользователя</commonModules>
+  <commonModules>CommonModule.РатЭмуляцияДействийПользователяВызовКлиента</commonModules>
+  <httpServices>HTTPService.RAT</httpServices>
+  <commonCommands>CommonCommand.РатКомандныйИнтерфейсЗапросОтвет</commonCommands>
+  <dataProcessors>DataProcessor.РатГенераторСценариев</dataProcessors>
+  <dataProcessors>DataProcessor.РатШагиVA</dataProcessors>
 </mdclass:Configuration>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b2c3d4e5-f6a7-8901-bcde-f12345678903">
+  <name>РатПреобразованияКоллекции</name>
+  <synonym>
+    <key>ru</key>
+    <value>Рат преобразования коллекции</value>
+  </synonym>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

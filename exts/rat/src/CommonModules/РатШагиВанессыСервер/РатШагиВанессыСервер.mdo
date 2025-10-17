@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c4d1e331-82c3-4bd5-8d17-3fe0d9f3263c">
+  <name>РатШагиВанессыСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаги ванессы сервер</value>
+  </synonym>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

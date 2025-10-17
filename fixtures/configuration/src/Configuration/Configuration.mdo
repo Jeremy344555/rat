@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="67bec71d-52cc-4192-a4af-327fcc59cc9c">
+  <name>Configuration</name>
+  <synonym>
+    <key>ru</key>
+    <value>Configuration</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="aa26e941-2ab1-4ddd-afed-8a90e422fbaa"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b10a59dd-d7ba-4516-91ea-f7a5467bcd77"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="e1944c0a-b69a-4874-848a-cff46679a4fd"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="0b3fc06c-9f67-413d-ad02-2ecd4129f33d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="90c8389c-9ad7-4609-970e-0c44127d3f36"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="71eb68c3-d39b-4cb4-9272-b0ddade45ddb"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="b8609b9c-8613-40b4-8ac6-3ece04fa731b"/>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.ПУБ_Администратор</defaultRoles>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <compatibilityMode>8.3.20</compatibilityMode>
+  <languages uuid="3d725191-c594-4ee1-bbb3-4963e6f8e7c5">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.ПУБ_ВсеОбъекты</subsystems>
+  <roles>Role.ПУБ_Администратор</roles>
+  <commonModules>CommonModule.ПУБ_ВыраженияСлужебный</commonModules>
+  <commonModules>CommonModule.ПУБ_РегламентныеЗаданияСлужебный</commonModules>
+  <exchangePlans>ExchangePlan.ПУБ_Все</exchangePlans>
+  <scheduledJobs>ScheduledJob.ПУБ_Пауза</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ПУБ_ПроизвольныйАлгоритм</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ПУБ_ФоноваяБлокировка</scheduledJobs>
+  <catalogs>Catalog.ПУБ_Номенклатура</catalogs>
+  <catalogs>Catalog.ПУБ_ОбъектыМетаданных</catalogs>
+  <catalogs>Catalog.ПУБ_Склады</catalogs>
+  <documents>Document.ПУБ_Чек</documents>
+  <enums>Enum.ПУБ_ВидыОпераций</enums>
+  <enums>Enum.ПУБ_Статусы</enums>
+  <enums>Enum.ПУБ_ТипыОбъектов</enums>
+  <dataProcessors>DataProcessor.ПУБ_ТестированиеВзаимодействияМенеджераИКлиентаТестирования</dataProcessors>
+  <informationRegisters>InformationRegister.ПУБ_ИзмерениеСоставнойРеквизит</informationRegisters>
+  <informationRegisters>InformationRegister.ПУБ_КомментарииПоОбъекту</informationRegisters>
+  <informationRegisters>InformationRegister.ПУБ_ПериодическаяКонстанта</informationRegisters>
+  <informationRegisters>InformationRegister.ПУБ_ПримитивныеИзмерения</informationRegisters>
+  <informationRegisters>InformationRegister.ПУБ_СтатусыОбъектов</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.ПУБ_ОстаткиТоваров</accumulationRegisters>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПУБ_ПВХ</chartsOfCharacteristicTypes>
+</mdclass:Configuration>

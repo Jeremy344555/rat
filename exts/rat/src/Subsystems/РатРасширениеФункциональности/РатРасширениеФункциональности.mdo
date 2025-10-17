@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="06cb50fc-9999-48de-84a5-71cde01f24da">
+  <name>РатРасширениеФункциональности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расширение функционала</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <subsystems>Сервис</subsystems>
+</mdclass:Subsystem>

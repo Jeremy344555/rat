@@ -4,4 +4,16 @@
 *.orig
 *.bak
 *_pid*.log
-.vscode/settings.json
+context/
+plans/
+tools/**/*.jar
+local-env-*
+*.log
+*.gz
+
+# memory-bank
+custom_modes/
+.cursor/rules/isolation_rules/
+.env
+node_modules
+mcp-server.*

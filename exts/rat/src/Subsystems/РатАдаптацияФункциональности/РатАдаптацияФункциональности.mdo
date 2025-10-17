@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f708fade-0a2d-46dd-acdb-7774394d67d2">
+  <name>РатАдаптацияФункциональности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Адаптация функциональности</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <subsystems>Решение</subsystems>
+  <subsystems>Конфигурация</subsystems>
+</mdclass:Subsystem>

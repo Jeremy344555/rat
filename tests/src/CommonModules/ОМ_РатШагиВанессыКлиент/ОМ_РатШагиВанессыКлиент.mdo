@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2ef524b6-14c5-4874-969e-c9adb9dcf363">
+  <name>ОМ_РатШагиВанессыКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Шаги ванессы клиент</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

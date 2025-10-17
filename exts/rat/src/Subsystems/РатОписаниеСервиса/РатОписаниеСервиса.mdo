@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e5733394-9609-4a3f-ba9d-b1ab58757879">
+  <name>РатОписаниеСервиса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Описание сервиса</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule.РатOpenAPI</content>
+  <content>CommonModule.РатСпецификация</content>
+</mdclass:Subsystem>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0e09ba8b-712b-477e-84a5-f0cec6199786">
+  <name>РатЭмуляцияДействийПользователя</name>
+  <synonym>
+    <key>ru</key>
+    <value>Эмуляция действий пользователя</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

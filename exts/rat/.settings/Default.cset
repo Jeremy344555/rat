@@ -5,11 +5,6 @@
       "enabled": false,
       "severity": "TRIVIAL"
     },
-    "right-interactive-open-external-data-processors": {
-      "properties": {
-        "excludeRoleNames": "ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок,InteractiveOpenExternalReportsAndDataProcessors,ОткрытиеВнешнихОбработокИОтчетов"
-      }
-    },
     "module-accessibility-at-client": {
       "enabled": false
     },
@@ -64,22 +59,12 @@
     "bsl-nstr-string-literal-format": {
       "enabled": false
     },
-    "right-view-event-log": {
-      "properties": {
-        "excludeRoleNames": "ПросмотрЖурналаРегистрации,ViewEventLog,ПолныеПрава,FullAccess,АдминистраторСистемы,SystemAdministrator,ТехническийОтдел"
-      }
-    },
     "event-heandler-boolean-param": {
       "severity": "MAJOR",
       "properties": {
         "paramsToTrue": "Cancel,Отказ",
         "checkEventOnly": "false",
         "paramsToFalse": "Perform,StandardProcessing,СтандартнаяОбработка"
-      }
-    },
-    "right-interactive-clear-deletion-mark-predefined-data": {
-      "properties": {
-        "excludeRoleNamePattern": "УправлениеДоступомПользователь"
       }
     },
     "export-method-in-command-form-module": {
@@ -102,16 +87,6 @@
     "empty-except-statement": {
       "severity": "CRITICAL"
     },
-    "right-active-users": {
-      "properties": {
-        "excludeRoleNames": "Администрирование,Administration,ПолныеПрава,FullAccess,АдминистраторСистемы,SystemAdministrator,ТехническийОтдел"
-      }
-    },
-    "right-interactive-set-deletion-mark-predefined-data": {
-      "properties": {
-        "excludeRoleNamePattern": "УправлениеДоступомПользователь"
-      }
-    },
     "right-output-to-printer-file-clipboard": {
       "enabled": false
     },
@@ -132,11 +107,6 @@
     },
     "right-save-user-data": {
       "enabled": false
-    },
-    "right-interactive-open-external-reports": {
-      "properties": {
-        "excludeRoleNames": "ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок,InteractiveOpenExternalReportsAndDataProcessors,ОткрытиеВнешнихОбработокИОтчетов"
-      }
     }
   }
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="84da2503-152d-4612-a036-ffc4956e85e7">
+  <name>РатДвижения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Движения</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

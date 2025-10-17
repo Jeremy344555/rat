@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4778660a-04eb-40ed-8e79-426e1152f165">
+  <name>ОМ_РатСериализация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Сериализация</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

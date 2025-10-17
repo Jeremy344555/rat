@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="863b0e0b-a008-4ec1-ba51-aad7ec31cb4b">
+  <name>РатМетаданные</name>
+  <synonym>
+    <key>ru</key>
+    <value>Метаданные</value>
+  </synonym>
+  <templateType>TextDocument</templateType>
+</mdclass:CommonTemplate>

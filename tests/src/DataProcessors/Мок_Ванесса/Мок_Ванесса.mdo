@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a99b2825-20c4-45ff-acb8-0de6e4bc2e5d">
+  <producedTypes>
+    <objectType typeId="2d7b7025-dfd5-424d-bd0b-c7fb7db93722" valueTypeId="2d128103-53f1-42d0-ba03-16e75c152a9e"/>
+    <managerType typeId="43223c57-eaac-49f0-9a89-dbba973ea1b4" valueTypeId="9d21a58c-5192-45d1-85ba-2dfd8ca55f81"/>
+  </producedTypes>
+  <name>Мок_Ванесса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мок ванесса</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="3eef3973-ca62-443c-8250-12fe0ee1c978">
+    <name>DebugLog</name>
+    <synonym>
+      <key>ru</key>
+      <value>Debug log</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="ec4eecd6-a48a-485d-af42-159bc5126c27">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
