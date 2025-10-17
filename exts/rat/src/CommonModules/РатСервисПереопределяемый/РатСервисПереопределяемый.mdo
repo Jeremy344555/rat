@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6863c609-b2f2-4c5d-8407-187614b91c3c">
+  <name>РатСервисПереопределяемый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сервис переопределяемый</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

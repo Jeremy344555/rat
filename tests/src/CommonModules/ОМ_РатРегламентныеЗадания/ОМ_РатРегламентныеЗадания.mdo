@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="74b56423-5840-43d6-aa4a-6edda4f4bc02">
+  <name>ОМ_РатРегламентныеЗадания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Регламентные задания</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

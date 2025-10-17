@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0fbe3d5f-89c2-4877-b0c3-ff621e24ed50">
+  <name>РатРасширениеФункциональности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расширение функциональности</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

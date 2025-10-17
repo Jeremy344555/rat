@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c407cb86-7cca-43c6-961a-f172891f4fbd">
+  <name>РатВзаимодействиеСКлиентомТестированияКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Взаимодействие с клиентом тестирования клиент</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

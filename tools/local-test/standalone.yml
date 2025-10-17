@@ -1,0 +1,7 @@
+http:
+  - base: /
+    http-services:
+      service:
+        - name: RAT
+          root: test-api
+          publish: true

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a6188f96-d372-4728-9698-c084f4ec6832" thisNode="bb5821c0-ad93-4e88-acbe-130be665031c">
+  <producedTypes>
+    <objectType typeId="c66659df-ed15-4df8-bc4c-2c1fd1e32b41" valueTypeId="c2b36686-97d6-490f-b999-87352a8e7e73"/>
+    <refType typeId="8beb8e44-bafe-40a7-bdef-d74af4807c04" valueTypeId="9f838f83-dd19-432f-8fa6-126d0d57adcc"/>
+    <selectionType typeId="a8ee7e62-3def-47db-bb49-7ad3037d7c52" valueTypeId="95f21978-9ca3-4ab5-836b-c592be639699"/>
+    <listType typeId="7b1e7f89-7d6b-4d22-a7a4-9ced73aea859" valueTypeId="b97429e4-695d-4575-9b64-ce5b940947a3"/>
+    <managerType typeId="7fc2f3fc-68eb-4fdf-b550-0e2cbca8dfc4" valueTypeId="10028117-2d49-43a4-9156-15140faada7f"/>
+  </producedTypes>
+  <name>ПУБ_Все</name>
+  <synonym>
+    <key>ru</key>
+    <value>ПУБ все</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ExchangePlan.ПУБ_Все.StandardAttribute.Code</inputByString>
+  <inputByString>ExchangePlan.ПУБ_Все.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>DontUse</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <content>
+    <mdObject>InformationRegister.ПУБ_КомментарииПоОбъекту</mdObject>
+  </content>
+  <content>
+    <mdObject>ChartOfCharacteristicTypes.ПУБ_ПВХ</mdObject>
+  </content>
+  <content>
+    <mdObject>Catalog.ПУБ_Склады</mdObject>
+  </content>
+  <content>
+    <mdObject>AccumulationRegister.ПУБ_ОстаткиТоваров</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_ПримитивныеИзмерения</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_ПериодическаяКонстанта</mdObject>
+  </content>
+  <content>
+    <mdObject>Catalog.ПУБ_Номенклатура</mdObject>
+  </content>
+  <content>
+    <mdObject>Document.ПУБ_Чек</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_СтатусыОбъектов</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_ИзмерениеСоставнойРеквизит</mdObject>
+  </content>
+  <content>
+    <mdObject>Catalog.ПУБ_ОбъектыМетаданных</mdObject>
+  </content>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>

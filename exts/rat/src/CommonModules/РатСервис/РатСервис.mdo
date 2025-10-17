@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bfe2bffe-40e9-49df-9bd9-23337476f9d3">
+  <name>РатСервис</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сервис</value>
+  </synonym>
+  <comment>Модуль обработки запросов http-сервиса</comment>
+  <server>true</server>
+</mdclass:CommonModule>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4c5d6e7-f8a9-0123-456b-cdef78901234">
+  <name>ОМ_РатПреобразованияСистемныеПеречисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Преобразования системных перечислений</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

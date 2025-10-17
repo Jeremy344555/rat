@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="de155e2c-1f33-4f18-8970-a477f5723037">
+  <name>ОМ_РатТабличныеЧасти</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Табличные части</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

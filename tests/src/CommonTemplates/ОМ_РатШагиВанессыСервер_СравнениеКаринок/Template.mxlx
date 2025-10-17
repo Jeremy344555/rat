@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<languageSettings>
+		<currentLanguage>ru</currentLanguage>
+		<defaultLanguage/>
+	</languageSettings>
+	<columns>
+		<size>5</size>
+	</columns>
+	<rowsItem>
+		<index>0</index>
+		<row>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>1</id>
+		<formatIndex>0</formatIndex>
+		<beginRow>1</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>3</endRow>
+		<endRowOffset>21</endRowOffset>
+		<beginColumn>0</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>2</endColumn>
+		<endColumnOffset>3</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>1</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>2</id>
+		<formatIndex>0</formatIndex>
+		<beginRow>4</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>4</endRow>
+		<endRowOffset>42</endRowOffset>
+		<beginColumn>0</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>0</endColumn>
+		<endColumnOffset>42</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>2</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>3</id>
+		<formatIndex>0</formatIndex>
+		<beginRow>5</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>5</endRow>
+		<endRowOffset>48</endRowOffset>
+		<beginColumn>0</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>0</endColumn>
+		<endColumnOffset>48</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>3</zOrder>
+		<pictureIndex>2</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>4</id>
+		<formatIndex>0</formatIndex>
+		<beginRow>7</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>22</endRow>
+		<endRowOffset>3</endRowOffset>
+		<beginColumn>0</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>4</endColumn>
+		<endColumnOffset>12</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>4</zOrder>
+		<pictureIndex>3</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Rectangle</drawingType>
+		<id>5</id>
+		<formatIndex>1</formatIndex>
+		<beginRow>0</beginRow>
+		<beginRowOffset>39</beginRowOffset>
+		<endRow>1</endRow>
+		<endRowOffset>39</endRowOffset>
+		<beginColumn>2</beginColumn>
+		<beginColumnOffset>138</beginColumnOffset>
+		<endColumn>4</endColumn>
+		<endColumnOffset>72</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>5</zOrder>
+	</drawing>
+	<drawing>
+		<drawingType>Text</drawingType>
+		<id>6</id>
+		<formatIndex>1</formatIndex>
+		<text>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Тест</v8:content>
+			</v8:item>
+		</text>
+		<beginRow>2</beginRow>
+		<beginRowOffset>15</beginRowOffset>
+		<endRow>3</endRow>
+		<endRowOffset>15</endRowOffset>
+		<beginColumn>2</beginColumn>
+		<beginColumnOffset>99</beginColumnOffset>
+		<endColumn>4</endColumn>
+		<endColumnOffset>102</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>6</zOrder>
+	</drawing>
+	<templateMode>true</templateMode>
+	<defaultFormatIndex>2</defaultFormatIndex>
+	<height>23</height>
+	<vgRows>23</vgRows>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ВнешняяКартинка</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>6</beginRow>
+			<endRow>22</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Запуск</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>0</beginRow>
+			<endRow>3</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Запуск2</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>4</beginRow>
+			<endRow>4</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Настройки</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>5</beginRow>
+			<endRow>5</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<format>
+		<verticalAlignment>Top</verticalAlignment>
+		<backColor>style:FieldBackColor</backColor>
+	</format>
+	<format>
+		<width>72</width>
+	</format>
+	<picture>
+		<index>0</index>
+		<picture t="false" ref="v8ui:ЮТЗапустить"/>
+	</picture>
+	<picture>
+		<index>1</index>
+		<picture t="false" ref="v8ui:ЮТНастройки"/>
+	</picture>
+	<picture>
+		<index>2</index>
+		<picture t="false">iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABmJLR0QA/wD/AP+g
+vaeTAAADw0lEQVR42u3dsW0bQRBA0aVBwCpEPaiDE6BMLIANuAcG7MENsAAqE+Dr
+QD2oEDk6h841BGaH815OcHl3/Nhk9naDb/t6Gpur8H0PH2PnKuT64RKAAAACAAgA
+IACAAAACAAgAIACAAAACAAgAIACAAACTaz2OaZyXiHsYZ7YDgMYEAAQAEABAAAAB
+AAQAEABAAAABAAQAEABAAAABAAQAEABgWvvOP/79ufb6Xx+X1O9/+1xT1787rq0P
+tLkFOwAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAgGmVPg/gehpb5PPR
+efTsefjutsuyZX7/PZxHYAcAjQkACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAAAIA
+FNH69eDZqo8Tdx+nvsU4cvZIsR0ANCYAIACAAAACAAgAIACAAAACAAgAIACAAAAC
+AAgAIADA7Eq/3jj6evCo7q/3js7zV3c41/7/jGEHAK0JAAgAIACAAAACAAgAIACA
+AAACAAgAIACAAAACAAgAIADAtMofaJBpuyybq1D44T+u7Z9/OwAQAEAAAAEABAAQ
+AEAAAAEABAAQAEAAAAEABAAQAEAAgGm1noe+nkbqPP/Ln9jn359rX//D2XkU2ewA
+QAAAAQAEABAAQAAAAQAEABAAQAAAAQAEABAAQACA2e0rLz57nLe76Dhz9ft3D+PM
+dgDQmACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIACAAACzS59n7jzTH52nr676
+681vIftMATsAaEwAQAAAAQAEABAAQAAAAQAEABAAQAAAAQAEABAAQAAAAQCmtc9e
+wOvjkvbdb59r6PPRAz1+/or99r+/15Epuv6X4PqjB4pkPnv/5d5DOwBoTABAAAAB
+AAQAEABAAAABAAQAEABAAAABAAQAEABAAIDZ7bIXsF2WrerFy57H7y56HsEUf8Dj
+mvoftAOAxgQABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEAikh/PXgm47y97989
+jBNH2QGAAAACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAEwr/fXgmb6eRtlX
+k48xxsNH7v1z/eqzAwABAAQAEABAAAABAAQAEABAAAABAAQAEABAAAABAAQAEABg
+PqUPRLieah9IcTj3PpDC/ctnBwCNCQAIACAAgAAAAgAIACAAgAAAAgAIACAAgAAA
+AgAIADC7ffYCqs+E09ctnt3sMwXsAKAxAQABAAQAEABAAAABAAQAEABAAAABAAQA
+EABAAAABAGb3D85PZeAexcSdAAAAEnRFWHRFWElGOk9yaWVudGF0aW9uADGEWOzv
+AAAAAElFTkSuQmCC</picture>
+	</picture>
+</document>

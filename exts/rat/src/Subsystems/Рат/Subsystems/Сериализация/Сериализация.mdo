@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1c30b135-f883-42f1-84fa-c473a88977ca">
+  <name>Сериализация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сериализация</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule.РатJSON</content>
+  <content>CommonModule.РатПреобразования</content>
+  <content>CommonModule.РатПреобразованияВызовСервера</content>
+  <content>CommonModule.РатПреобразованияКлиентСервер</content>
+  <content>CommonModule.РатСериализация</content>
+  <parentSubsystem>Subsystem.Рат</parentSubsystem>
+</mdclass:Subsystem>
