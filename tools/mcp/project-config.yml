@@ -1,0 +1,38 @@
+# Настройки для проекта YAxUnit
+# Профиль: yaxunit
+
+# Базовые настройки приложения
+app:
+  id: rat-community
+  format: EDT
+  
+  # Набор исходного кода проекта
+  source-set:
+    # Конфигурация для тестирования
+    - path: "exts/rat"
+      name: RAT
+      type: "EXTENSION"
+      purpose: [ "MAIN" ]
+
+    # Конфигурация для тестирования
+    - path: "fixtures/configuration"
+      name: configuration
+      type: "CONFIGURATION"
+      purpose: [ "TESTS" ]
+
+    # Тесты YAxUnit
+    - path: "tests"
+      name: tests
+      type: "EXTENSION"
+      purpose: [ "TESTS", "YAXUNIT" ]
+  
+  # Настройки инструментов
+  tools:
+    # Тип сборщика: DESIGNER или IBMCMD
+    builder: DESIGNER
+    # Настройки EDT CLI
+    edt-cli:
+      auto-start: true
+      startup-timeout-ms: 300000 # 5 минут
+      command-timeout-ms: 600000 # 10 минут
+      ready-check-timeout-ms: 5000

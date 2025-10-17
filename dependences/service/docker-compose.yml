@@ -1,0 +1,12 @@
+version: '3.4'
+services:
+  apache-1c:
+    build: .
+    container_name: apache-1c
+    restart: always
+    network_mode: host
+    volumes:
+      - ${PLATFORM_PATH}:/opt/1C/v8.3/x86_64/
+      - ${INFOBASE_PATH}:/usr/local/apache2/onec-db:z
+      - ${HASP_INI}:/etc/hethasp.ini
+
