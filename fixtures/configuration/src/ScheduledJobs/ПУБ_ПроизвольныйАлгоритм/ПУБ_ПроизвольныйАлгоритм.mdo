@@ -8,6 +8,8 @@
   <methodName>CommonModule.ПУБ_РегламентныеЗаданияСлужебный.ПроизвольныйАлгоритм</methodName>
   <description>ПроизвольныйАлгоритм</description>
   <key>ПроизвольныйАлгоритм</key>
+  <use>true</use>
+  <predefined>true</predefined>
   <restartCountOnFailure>3</restartCountOnFailure>
   <restartIntervalOnFailure>25</restartIntervalOnFailure>
 </mdclass:ScheduledJob>
