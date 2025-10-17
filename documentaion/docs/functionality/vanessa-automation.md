@@ -374,4 +374,4 @@ description: Интеграция RAT с Vanessa Automation
 
 Генератор поставляется вместе с расширением (встроена в него).
 
-### [Примеры тестов](../features_scenario)
+### [Примеры тестов](https://github.com/bia-technologies/rat/tree/master/features_scenario)

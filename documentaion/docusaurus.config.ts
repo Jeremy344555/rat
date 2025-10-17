@@ -126,7 +126,7 @@ const config: Config = {
           items: [
             {
               label: 'Установка',
-              to: '/docs/install/Установка',
+              to: '/docs/install',
             }
           ],
         },
@@ -148,7 +148,7 @@ const config: Config = {
           items: [
             {
               label: 'Contributing',
-              to: '/docs/contributing/Readme',
+              to: '/docs/contributing',
             },
             {
               label: 'Лицензия',
