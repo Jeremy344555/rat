@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f60beea7-dfd7-4ef7-80f1-eee6b7f10501">
+  <name>ОМ_РатШагиВанессыСервер_СравнениеКаринок</name>
+  <synonym>
+    <key>ru</key>
+    <value>О м рат шаги ванессы сервер сравнение каринок</value>
+  </synonym>
+</mdclass:CommonTemplate>

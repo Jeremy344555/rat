@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b97ae4fa-d718-4e22-86fd-51137b98cc96">
+  <producedTypes>
+    <objectType typeId="29ee5a75-f8da-4077-8b8e-685f3deee2ca" valueTypeId="c3b60c47-eb44-477b-aff9-c49243aea03c"/>
+    <managerType typeId="f7e33ac0-99ee-43eb-a814-c8b899825283" valueTypeId="d5bffe23-e01f-4a17-a0b6-fa157bd4f645"/>
+  </producedTypes>
+  <name>РатГенераторСценариев</name>
+  <synonym>
+    <key>ru</key>
+    <value>Генератор сценариев Gherkin</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.РатГенераторСценариев.Form.Форма</defaultForm>
+  <forms uuid="10cd0d14-75e9-4093-bd5a-49b6cfb14c22">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="7c532720-db42-45ca-a5c7-64dca73ceffc">
+    <name>ФормаВыбораРегистра</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора регистра</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

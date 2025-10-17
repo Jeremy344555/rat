@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cc500b56-60d7-4d4f-9af3-c0c97fdf1838">
+  <name>Служебный</name>
+  <synonym>
+    <key>ru</key>
+    <value>Служебный</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule.РатИнформационнаяБаза</content>
+  <content>CommonModule.РатИнформационнаяБазаПереопределяемый</content>
+  <content>CommonModule.РатКоллекции</content>
+  <content>CommonModule.РатМетаданные</content>
+  <content>CommonModule.РатОбщий</content>
+  <content>CommonModule.РатОбщийКлиентСервер</content>
+  <content>CommonModule.РатПовтИсп</content>
+  <content>CommonModule.РатСтроки</content>
+  <content>CommonModule.РатТипыДанных</content>
+  <content>CommonModule.РатШаблонМодуля</content>
+  <content>CommonTemplate.РатМетаданные</content>
+  <parentSubsystem>Subsystem.Рат</parentSubsystem>
+</mdclass:Subsystem>

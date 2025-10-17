@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/1c-syntax/bsl-language-server/master/src/main/resources/com/github/_1c_syntax/bsl/languageserver/configuration/schema.json",
+  "language": "ru",
+  "diagnostics": {
+    "parameters": {
+      "EmptyCodeBlock": {
+        "commentAsCode": true
+      },
+      "TernaryOperatorUsage": false,
+      "UsingModalWindows": true,
+      "UsingSynchronousCalls": true,
+      "IfElseIfEndsWithElse": false,
+      "SpaceAtStartComment": {
+        "commentsAnnotation": "//@,//(c),//©,//<no,//</no,//</for,//<for,//<code>,//<example>"
+      },
+      "LineLength": {
+        "maxLineLength": 150
+      },
+      "MissingCodeTryCatchEx": {
+        "commentAsCode": true
+      },
+      "MultilingualStringHasAllDeclaredLanguages": false,
+      "MultilingualStringUsingWithTemplateDiagnostic": false,
+      "NumberOfOptionalParams": {
+        "maxOptionalParamsCount": 7
+      },
+      "NumberOfParams": {
+        "maxParamsCount": 10
+      },
+      "Typo": {
+        "userWordsToIgnore": ""
+      },
+      "MagicNumber": {
+        "authorizedNumbers": "-1,0,1,2",
+        "allowMagicIndexes": true
+      }
+    }
+  }
+}

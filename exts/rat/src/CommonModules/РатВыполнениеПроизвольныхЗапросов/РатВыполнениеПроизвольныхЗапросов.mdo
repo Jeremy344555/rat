@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ebf5fea2-be15-4574-b083-789a46529abc">
+  <name>РатВыполнениеПроизвольныхЗапросов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выполнение произвольных запросов</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6de9a554-5107-40bf-8b98-b9899ae2b8f3">
+  <name>ПУБ_ВсеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>ПУБ все объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Role.ПУБ_Администратор</content>
+  <content>CommonModule.ПУБ_ВыраженияСлужебный</content>
+  <content>CommonModule.ПУБ_РегламентныеЗаданияСлужебный</content>
+  <content>ExchangePlan.ПУБ_Все</content>
+  <content>ScheduledJob.ПУБ_Пауза</content>
+  <content>ScheduledJob.ПУБ_ПроизвольныйАлгоритм</content>
+  <content>ScheduledJob.ПУБ_ФоноваяБлокировка</content>
+  <content>Catalog.ПУБ_Номенклатура</content>
+  <content>Catalog.ПУБ_ОбъектыМетаданных</content>
+  <content>Catalog.ПУБ_Склады</content>
+  <content>Document.ПУБ_Чек</content>
+  <content>Enum.ПУБ_ВидыОпераций</content>
+  <content>Enum.ПУБ_Статусы</content>
+  <content>Enum.ПУБ_ТипыОбъектов</content>
+  <content>DataProcessor.ПУБ_ТестированиеВзаимодействияМенеджераИКлиентаТестирования</content>
+  <content>InformationRegister.ПУБ_ИзмерениеСоставнойРеквизит</content>
+  <content>InformationRegister.ПУБ_КомментарииПоОбъекту</content>
+  <content>InformationRegister.ПУБ_ПериодическаяКонстанта</content>
+  <content>InformationRegister.ПУБ_ПримитивныеИзмерения</content>
+  <content>InformationRegister.ПУБ_СтатусыОбъектов</content>
+  <content>AccumulationRegister.ПУБ_ОстаткиТоваров</content>
+  <content>ChartOfCharacteristicTypes.ПУБ_ПВХ</content>
+</mdclass:Subsystem>

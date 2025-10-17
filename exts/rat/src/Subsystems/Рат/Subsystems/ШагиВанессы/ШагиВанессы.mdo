@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d4f38da5-7a50-496a-b166-865096795df5">
+  <name>ШагиВанессы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаги ванессы</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>DataProcessor.РатШагиVA</content>
+  <content>CommonModule.РатШагиВанессыВызовСервера</content>
+  <content>CommonModule.РатШагиВанессыКлиент</content>
+  <content>CommonModule.РатШагиВанессыКлиентСервер</content>
+  <content>CommonModule.РатШагиВанессыСервер</content>
+  <content>CommonModule.РатВызовСервисаКлиент</content>
+  <content>CommonModule.РатКоннекторHTTP</content>
+  <parentSubsystem>Subsystem.Рат</parentSubsystem>
+</mdclass:Subsystem>

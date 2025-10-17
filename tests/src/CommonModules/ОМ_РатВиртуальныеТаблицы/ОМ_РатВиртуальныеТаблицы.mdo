@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="88e2b6e4-4d47-4898-9f78-0e8427a87e77">
+  <name>ОМ_РатВиртуальныеТаблицы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Виртуальные таблицы</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

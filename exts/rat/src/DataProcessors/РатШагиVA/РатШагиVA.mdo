@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="879c9ed7-cd7e-4bf6-9a99-47968ae6335a">
+  <producedTypes>
+    <objectType typeId="6d82b1e7-0b8d-476a-8df1-a68a34b3965f" valueTypeId="f3befd19-c8bb-40d1-ac19-d5571dd19d52"/>
+    <managerType typeId="8aa03750-02c5-44b7-ae94-2f3d8b5b5de3" valueTypeId="03228e87-819e-4186-b83b-1c13344be573"/>
+  </producedTypes>
+  <name>РатШагиVA</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаги VA</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.РатШагиVA.Form.Форма</defaultForm>
+  <forms uuid="5d1beb78-d837-436c-be09-7a1852e21348">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f3942a28-280b-4bf4-a627-8686dd50bc60">
+    <name>Таймер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Таймер</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="23a69634-15b6-4327-b367-f32e7f1a064e">
+    <name>ЭкспортныеШаги</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экспортные шаги</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:DataProcessor>

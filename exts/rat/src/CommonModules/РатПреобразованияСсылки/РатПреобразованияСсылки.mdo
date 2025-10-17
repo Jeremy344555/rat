@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8f9a3c2e-7b4d-4e5f-a6c8-9d1e2f3a4b5c">
+  <name>РатПреобразованияСсылки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Рат преобразования ссылки</value>
+  </synonym>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4d86ea78-6fbf-43fe-b2a2-71f9c9c14604">
+  <name>ОМ_РатШаблоныАдресов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты. Шаблоны адресов</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

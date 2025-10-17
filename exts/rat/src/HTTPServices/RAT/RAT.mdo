@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="67b40374-3460-419d-8725-d504a92415c7">
+  <name>RAT</name>
+  <rootURL>test-api</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="799a4fb0-feb6-4cd4-aed6-51a5e156bbbd">
+    <name>Спецификация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Спецификация</value>
+    </synonym>
+    <template>/spec.json</template>
+    <methods uuid="7453e906-56f5-45b5-9f94-72eb7a5869c4">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>GET</value>
+      </synonym>
+      <handler>СпецификацияGET</handler>
+    </methods>
+  </urlTemplates>
+  <urlTemplates uuid="093401d7-399a-49a1-b325-680fe5aaa7ac">
+    <name>ИнтерфейсСпецификации</name>
+    <synonym>
+      <key>ru</key>
+      <value>Интерфейс спецификации</value>
+    </synonym>
+    <template>/spec-ui</template>
+    <methods uuid="f2b7720e-cf48-42bd-a861-e05bfeb88e73">
+      <name>GET</name>
+      <synonym>
+        <key>ru</key>
+        <value>GET</value>
+      </synonym>
+      <handler>ИнтерфейсСпецификацииGET</handler>
+    </methods>
+  </urlTemplates>
+  <urlTemplates uuid="c6f40157-eb89-42ff-9b23-56bea837dfd1">
+    <name>API</name>
+    <synonym>
+      <key>ru</key>
+      <value>API</value>
+    </synonym>
+    <template>/*</template>
+    <methods uuid="05060109-71b2-4b3e-a191-f6c62df898ca">
+      <name>ANY</name>
+      <synonym>
+        <key>ru</key>
+        <value>ANY</value>
+      </synonym>
+      <httpMethod>Any</httpMethod>
+      <handler>APIANY</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>

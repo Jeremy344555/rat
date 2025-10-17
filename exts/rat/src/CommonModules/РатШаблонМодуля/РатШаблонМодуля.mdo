@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a6a16441-26cc-4c5d-879e-08b03d97ffb5">
+  <name>РатШаблонМодуля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблон модуля обработчика REST сервиса</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

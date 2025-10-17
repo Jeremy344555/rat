@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="47b66bdc-91d6-46c7-ae3b-14473a68ea97">
+  <name>РатКоннекторHTTP</name>
+  <synonym>
+    <key>ru</key>
+    <value>Коннектор HTTP</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
