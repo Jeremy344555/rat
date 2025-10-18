@@ -60,4 +60,4 @@ RAT (Remote API for Testing) — это расширение для платфо
 
 ## Лицензия
 
-Проект распространяется под лицензией Apache License version 2.0.
+Проект распространяется под лицензией GNU Lesser General Public License v3.0 (LGPL-3.0).

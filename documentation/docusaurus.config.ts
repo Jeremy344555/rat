@@ -152,7 +152,7 @@ const config: Config = {
             },
             {
               label: 'Лицензия',
-              href: 'https://github.com/bia-technologies/rat/blob/main/COPYRIGHT',
+              href: 'https://github.com/bia-technologies/rat?tab=LGPL-3.0-1-ov-file',
             },
           ],
         },
