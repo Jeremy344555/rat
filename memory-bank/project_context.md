@@ -7,7 +7,7 @@
 
 ### Правообладатель и лицензия
 - **Разработчик**: BIA Technologies, LLC
-- **Лицензия**: Apache License 2.0
+- **Лицензия**: GNU Lesser General Public License v3.0 (LGPL-3.0)
 - **Период разработки**: 2021-2025
 - **Сайт компании**: [bia-tech.ru](http://www.bia-tech.ru)
 
@@ -137,7 +137,7 @@ rat_community/
 - **Публичный репозиторий** на GitHub
 - **Открытые issues** для обратной связи
 - **Contribution guidelines** для участников
-- **Apache 2.0 лицензия** для свободного использования
+- **GNU Lesser General Public License v3.0 лицензия** для свободного использования
 
 ### Связанные проекты
 - **[Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation)** - основной потребитель API
