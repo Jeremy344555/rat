@@ -4,7 +4,7 @@
 
 Предоставляет сервис, через который можно манипулировать данными базы и управлять регламентными заданиями.
 
-Также содержит [известные шаги](doc/Работа%20в%20Vanessa%20Automation.md) для [Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation), используя которые вы можете искать, создавать, изменять и удалять данные в другой базе 1С.
+Также содержит [известные шаги](https://bia-technologies.github.io/rat/docs/functionality/ЭкспортируемыеШаги) для [Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation), используя которые вы можете искать, создавать, изменять и удалять данные в другой базе 1С.
 
 Подробная информация в [документации](https://bia-technologies.github.io/rat/).
 
