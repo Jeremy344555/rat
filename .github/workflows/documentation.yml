@@ -17,6 +17,14 @@ jobs:
     steps:
       - name: Извлечение исходников
         uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 0
+
+      - name: Установка Git LFS
+        run: |
+          git lfs install --local
+          git lfs pull
 
       - name: Установка NodeJS
         uses: actions/setup-node@v3
